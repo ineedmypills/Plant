@@ -4,6 +4,8 @@
 class Bush : public Plant
 {
 public:
+
+	
 private:
 
 };
